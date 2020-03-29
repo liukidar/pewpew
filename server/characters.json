@@ -1,0 +1,435 @@
+[
+  {
+    "name": "Paul Regret",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "All players see him at a distance increased by 1.",
+    "image": "",
+    "life": 3
+  },
+  {
+    "name": "Jourdonnais",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "Whenever he is the target of a BANG!, he may 'Reveal!': on a Heart, he is missed",
+    "image": "",
+    "life": 4
+  },
+  {
+    "name": "Black Jack",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "He shows the second card he draws. On Hearts or Diamnods, he draws one more card.",
+    "image": "",
+    "life": 4
+  },
+  {
+    "name": "El Gringo",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "Each time he is hit by a player, he draws a card from the hand of that player.",
+    "image": "",
+    "life": 3
+  },
+  {
+    "name": "Jesse Jones",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "He may draw his first card from the hand of a player.",
+    "image": "",
+    "life": 4
+  },
+  {
+    "name": "Suzy Lafayette",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "As soon as she has no cards in hand, she draws a card.",
+    "image": "",
+    "life": 4
+  },
+  {
+    "name": "Suzy Lafayette",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "As soon as she has no cards in hand, she draws a card.",
+    "image": "",
+    "life": 4
+  },
+  {
+    "name": "Willy the Kid",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "He can play any number of BANG! cards.",
+    "image": "",
+    "life": 4
+  },
+  {
+    "name": "Rose Doolan",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "She sees all players at a distance decreased by 1.",
+    "image": "",
+    "life": 4
+  },
+  {
+    "name": "Bart Cassidy",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "Each time he is hit, he draws a card.",
+    "image": "",
+    "life": 4
+  },
+  {
+    "name": "Pedro Ramirez",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "He may draw his first card from the discard pile.",
+    "image": "",
+    "life": 4
+  },
+  {
+    "name": "Sid Ketchum",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "He may discard 2 cards to regain one life point.",
+    "image": "",
+    "life": 4
+  },
+  {
+    "name": "Luck Duke",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "Each time he 'Reveal!', he flips the top two cards and chooses one.",
+    "image": "",
+    "life": 4
+  },
+  {
+    "name": "Vulture Sam",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "Whenever a player is eliminated from play, he takes in hand all the cards of that player.",
+    "image": "",
+    "life": 4
+  },
+  {
+    "name": "Calamity Janet",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "She can play BANG! cards as Missed! cards and vice versa.",
+    "image": "",
+    "life": 4
+  },
+  {
+    "name": "Kit Carlson",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "He looks at the top three cards of the deck and chooses the 2 to draw.",
+    "image": "",
+    "life": 4
+  },
+  {
+    "name": "Apache Kid",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "Cards of Diamonds played by other players do not affect him.",
+    "image": "",
+    "life": 3
+  },
+  {
+    "name": "Belle Star",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "During her turn, cards in play in front of other players have no effect.",
+    "image": "",
+    "life": 4
+  },
+  {
+    "name": "Bill Noface",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "He draws 1 card, plus 1 card for each wound he has.",
+    "image": "",
+    "life": 4
+  },
+  {
+    "name": "Chuck Wengam",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "During his turn he may choose to lose 1 life poit to draw 2 cards.",
+    "image": "",
+    "life": 4
+  },
+  {
+    "name": "Doc Holyday",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "During his turn, he may discard once 2 cards from the hand to shoot a BANG!.",
+    "image": "",
+    "life": 4
+  },
+  {
+    "name": "Elena Fuente",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "She may use any card as 'Missed!'.",
+    "image": "",
+    "life": 3
+  },
+  {
+    "name": "Vera Custer",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "For one whole round, she gains the same ability of another character in play of her choice.",
+    "image": "",
+    "life": 3
+  },
+  {
+    "name": "Tequila Joe",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "Each time he plays a Beer, he regains 2 life points instead of 1.",
+    "image": "",
+    "life": 4
+  },
+  {
+    "name": "Sean Mallory",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "He may hold in his hand up to 10 cards.",
+    "image": "",
+    "life": 3
+  },
+  {
+    "name": "Pixie Pete",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "He draws 3 cards instead of 2.",
+    "image": "",
+    "life": 3
+  },
+  {
+    "name": "Pat Brennan",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "He may draw only one card in play in front of any other player (instead of drawing from the deck).",
+    "image": "",
+    "life": 4
+  },
+  {
+    "name": "Molly Stark",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "Each time she uses a card from the hand out of turn, she draws a card.",
+    "image": "",
+    "life": 4
+  },
+  {
+    "name": "Jose Delgado",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "Twice in his turn, he may discard a blue card from the hand to draw 2 cards.",
+    "image": "",
+    "life": 4
+  },
+  {
+    "name": "Herb Hunter",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "Each time another player is eliminated, he draws 2 extra cards.",
+    "image": "",
+    "life": 4
+  },
+  {
+    "name": "Greg Digger",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "Each time another player is eliminated he regains 2 life points.",
+    "image": "",
+    "life": 4
+  },
+  {
+    "name": "Black Flower",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "Once during your turn, you may use any Clubs card as an extra BANG!.",
+    "image": "",
+    "life": 4
+  },
+  {
+    "name": "Colorado Bill",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "Each time you play a BANG!, Reveal! If Spades, this shot cannot be avoided.",
+    "image": "",
+    "life": 4
+  },
+  {
+    "name": "Der Spot-Burst Ringer",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "Once during your turn, you may use a BANG! card as a Gatling.",
+    "image": "",
+    "life": 4
+  },
+  {
+    "name": "Evelyn Shebang",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "You may refuse to draw cards in your draw phase. For each card skipped, shoot a BANG! at a different target in reachable distance.",
+    "image": "",
+    "life": 4
+  },
+  {
+    "name": "Henry Block",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "Any player drawing or discarding one of your cards is the target of a BANG!.",
+    "image": "",
+    "life": 4
+  },
+  {
+    "name": "Lemonade Jim",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "Each time another player plays a Beer card, you may discard any card from hand to also regain 1 life point.",
+    "image": "",
+    "life": 4
+  },
+  {
+    "name": "Mick Defender",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "You can avoid every brown card with a Missed.",
+    "image": "",
+    "life": 4
+  },
+  {
+    "name": "Tuco Franziskaner",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "During your draw phase, if you have no blue cards in play, draw 2 extra cards.",
+    "image": "",
+    "life": 4
+  },
+  
+  {
+    "name": "The Nose",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "He sees the last player that has damaged him at distance 1. He can also reveal a card form that player's hand at the beginning of his turn.",
+    "image": "",
+    "life": 3
+  },
+  {
+    "name": "The Pear",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "Her bourgeois wealth allows her to discard 3 cards and choose an equipment from the discard pile.",
+    "image": "",
+    "life": 4
+  },
+  {
+    "name": "The Rifle-Woman",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "Her gunpowder-powered fury allows her to discard a card, before shooting, and make a BANG! damage double.",
+    "image": "",
+    "life": 3
+  }, 
+  {
+    "name": "The Rainbow Guy",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "If he has full life, he can play a Beer as a BANG!, screaming 'NON SONO UBRIACOH!'.",
+    "image": "",
+    "life": 4
+  }, 
+  {
+    "name": "The Bobo",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "Faithful pray: once per turn, he can deal himself 1 damage to inflict 2 damages to a player.",
+    "image": "",
+    "life": 3
+  },
+  {
+    "name": "The Four-Eyed Cat",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "Sleep Well: he can skip one turn to regain 2 life points.",
+    "image": "",
+    "life": 4
+  },
+  {
+    "name": "The Prince Consort",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "Tribute: once during the game he can pick one card from the hand of each player.",
+    "image": "",
+    "life": 4
+  },
+  {
+    "name": "The Beard-Barian",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "Every beer heals for three life, but can be the only card played that turn.",
+    "image": "",
+    "life": 4
+  },
+  {
+    "name": "The Gibbous Robot",
+    "value": "",
+    "suit": "",
+    "type": "yellow",
+    "text": "Each time he swaps weapon, he shoots a BANG! to the three next or prevous players.",
+    "image": "",
+    "life": 4
+  }
+]
