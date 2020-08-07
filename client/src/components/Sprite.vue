@@ -19,7 +19,13 @@ export default {
     },
     scale: {
       default: 2.0
+    },
+    animation_speed: {
+      default: 1
     }
+    /*
+    hello_cycles: 10adasdjb
+    */
   },
   data: function() {
     return {
@@ -46,7 +52,7 @@ export default {
       if (this.i == 10) {
         this.i = 0
         if (json.animations[this.isrc]) {
-          this.activeFrame = (this.activeFrame + 1) % json.animations[this.isrc].frames.length
+          this.activeFrame = (this.activeFrame + 1) % Math.floor(json.animations[this.isrc].frames.length * this.animation_speed)
         }
         // json.animations[this.isrc].frame-duration
       }
