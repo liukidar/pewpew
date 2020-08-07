@@ -1,0 +1,788 @@
+[
+  {
+    "name": "Bang",
+    "cards": [{
+      "value": "2",
+      "suit": "clubs"
+    }, {
+      "value": "3",
+      "suit": "clubs"
+    }, {
+      "value": "4",
+      "suit": "clubs"
+    }, {
+      "value": "5",
+      "suit": "clubs"
+    }, {
+      "value": "6",
+      "suit": "clubs"
+    }, {
+      "value": "7",
+      "suit": "clubs"
+    }, {
+      "value": "8",
+      "suit": "clubs"
+    }, {
+      "value": "9",
+      "suit": "clubs"
+    }, {
+      "value": "2",
+      "suit": "diamonds"
+    }, {
+      "value": "3",
+      "suit": "diamonds"
+    }, {
+      "value": "4",
+      "suit": "diamonds"
+    }, {
+      "value": "5",
+      "suit": "diamonds"
+    }, {
+      "value": "6",
+      "suit": "diamonds"
+    }, {
+      "value": "7",
+      "suit": "diamonds"
+    }, {
+      "value": "8",
+      "suit": "diamonds"
+    }, {
+      "value": "9",
+      "suit": "diamonds"
+    }, {
+      "value": "10",
+      "suit": "diamonds"
+    }, {
+      "value": "j",
+      "suit": "diamonds"
+    }, {
+      "value": "q",
+      "suit": "diamonds"
+    }, {
+      "value": "k",
+      "suit": "diamonds"
+    }, {
+      "value": "a",
+      "suit": "diamonds"
+    }, {
+      "value": "q",
+      "suit": "hearts"
+    }, {
+      "value": "k",
+      "suit": "hearts"
+    }, {
+      "value": "a",
+      "suit": "hearts"
+    }, {
+      "value": "a",
+      "suit": "spades"
+    }, {
+      "value": "8",
+      "suit": "spades"
+    }, {
+      "value": "5",
+      "suit": "clubs"
+    }, {
+      "value": "6",
+      "suit": "clubs"
+    }, {
+      "value": "k",
+      "suit": "clubs"
+    }],
+    "type": "yellow",
+    "text": "BANG! one player in range",
+    "image": ""
+  },
+  {
+    "name": "Missed",
+    "cards": [{
+      "value": "10",
+      "suit": "clubs"
+    }, {
+      "value": "j",
+      "suit": "clubs"
+    }, {
+      "value": "q",
+      "suit": "clubs"
+    }, {
+      "value": "k",
+      "suit": "clubs"
+    }, {
+      "value": "a",
+      "suit": "clubs"
+    }, {
+      "value": "j",
+      "suit": "clubs"
+    }, {
+      "value": "8",
+      "suit": "diamonds"
+    }],
+    "type": "yellow",
+    "text": "Avoid one BANG!",
+    "image": ""
+  },
+  {
+    "name": "Beer",
+    "cards": [{
+      "value": "6",
+      "suit": "hearts"
+    }, {
+      "value": "7",
+      "suit": "hearts"
+    }, {
+      "value": "8",
+      "suit": "hearts"
+    }, {
+      "value": "9",
+      "suit": "hearts"
+    }, {
+      "value": "10",
+      "suit": "hearts"
+    }, {
+      "value": "j",
+      "suit": "hearts"
+    },{
+      "value": "6",
+      "suit": "hearts"
+    },{
+      "value": "6",
+      "suit": "spades"
+    }],
+    "type": "yellow",
+    "text": "Gain one life",
+    "image": ""
+  },
+  {
+    "name": "Panic",
+    "cards": [{
+      "value": "j",
+      "suit": "hearts"
+    }, {
+      "value": "q",
+      "suit": "hearts"
+    }, {
+      "value": "a",
+      "suit": "hearts"
+    }, {
+      "value": "8",
+      "suit": "diamonds"
+    }, {
+      "value": "j",
+      "suit": "hearts"
+    }],
+    "type": "yellow",
+    "text": "Pick one card from a player at distance one (from hand or board)",
+    "image": ""
+  },
+  {
+    "name": "Cat Balou",
+    "cards": [{
+      "value": "9",
+      "suit": "diamonds"
+    }, {
+      "value": "10",
+      "suit": "diamonds"
+    }, {
+      "value": "j",
+      "suit": "diamonds"
+    }, {
+      "value": "k",
+      "suit": "hearts"
+    }, {
+      "value": "8",
+      "suit": "spades"
+    }],
+    "type": "yellow",
+    "text": "Discard one card from a player (from hand or board)",
+    "image": ""
+  },
+  {
+    "name": "Stagecoach",
+    "cards": [{
+      "value": "9",
+      "suit": "spades"
+    }, {
+      "value": "9",
+      "suit": "spades"
+    }],
+    "type": "yellow",
+    "text": "Draw two cards",
+    "image": ""
+  },
+  {
+    "name": "Wells Fargo",
+    "cards": [{
+      "value": "3",
+      "suit": "hearts"
+    }],
+    "type": "yellow",
+    "text": "Draw three cards",
+    "image": ""
+  },
+  {
+    "name": "Duel",
+    "cards": [{
+      "value": "q",
+      "suit": "diamonds"
+    }, {
+      "value": "j",
+      "suit": "spades"
+    }, {
+      "value": "8",
+      "suit": "clubs"
+    }],
+    "type": "yellow",
+    "text": "Duel another player (discard a  BANG! until you die!)",
+    "image": ""
+  },
+  {
+    "name": "Indians",
+    "cards": [{
+      "value": "k",
+      "suit": "diamonds"
+    }, {
+      "value": "a",
+      "suit": "diamonds"
+    }, {
+      "value": "5",
+      "suit": "diamonds"
+    }],
+    "type": "yellow",
+    "text": "Every other player must discard 1 BANG! or loose one life",
+    "image": ""
+  },
+  {
+    "name": "General Store",
+    "cards": [{
+      "value": "9",
+      "suit": "spades"
+    }, {
+      "value": "q",
+      "suit": "clubs"
+    }, {
+      "value": "a",
+      "suit": "spades"
+    }],
+    "type": "yellow",
+    "text": "Reveal as many cards as players. Each player draws one",
+    "image": "" 
+  },
+  {
+    "name": "Saloon",
+    "cards": [{
+      "value": "5",
+      "suit": "hearts"
+    }],
+    "type": "yellow",
+    "text": "All players gain 1 life",
+    "image": ""
+  },
+  {
+    "name": "Punch",
+    "cards": [{
+      "value": "10",
+      "suit": "spades"
+    }],
+    "type": "yellow",
+    "text": "BANG! a player at distance one",
+    "image": ""
+  },
+  {
+    "name": "Rag Time",
+    "cards": [{
+      "value": "9",
+      "suit": "hearts"
+    }],
+    "type": "yellow",
+    "text": "Discard a card. Pick one card from a player",
+    "image": ""
+  },
+  {
+    "name": "Brawl",
+    "cards": [{
+      "value": "j",
+      "suit": "spades"
+    }],
+    "type": "yellow",
+    "text": "Discard a card. Discard one card from every other player",
+    "image": ""
+  },
+  {
+    "name": "Dodge",
+    "cards": [{
+      "value": "7",
+      "suit": "diamonds"
+    }, {
+      "value": "k",
+      "suit": "hearts"
+    }],
+    "type": "yellow",
+    "text": "Avoid 1 Bang. Draw a card",
+    "image": ""
+  },
+  {
+    "name": "Springfield",
+    "cards": [{
+      "value": "k",
+      "suit": "spades"
+    }],
+    "type": "yellow",
+    "text": "Discard a card. Bang one to another player",
+    "image": ""
+  },
+  {
+    "name": "Tequila",
+    "cards": [{
+      "value": "9",
+      "suit": "clubs"
+    }],
+    "type": "yellow",
+    "text": "Discard a card. Choose a player. He gains one life",
+    "image": ""
+  },
+  {
+    "name": "Whisky",
+    "cards": [{
+      "value": "9",
+      "suit": "clubs"
+    }],
+    "type": "yellow",
+    "text": "Discard a card. Gain two lives",
+    "image": ""
+  },
+  {
+    "name": "Bandidos",
+    "cards": [{
+      "value": "q",
+      "suit": "diamonds"
+    }],
+    "type": "yellow",
+    "text": "Each player chooses one: discard 2 cards from his hand or lose 1 life point",
+    "image": ""
+  },
+  {
+    "name": "Escape",
+    "cards": [{
+      "value": "q",
+      "suit": "diamonds"
+    }],
+    "type": "yellow",
+    "text": "May be played out of turn. Avoid the effects of a brown card (other than BANG!) that includes you as a target",
+    "image": ""
+  },
+  {
+    "name": "Aim",
+    "cards": [{
+      "value": "6",
+      "suit": "clubs"
+    }],
+    "type": "yellow",
+    "text": "Play this card together with a BANG! card. If the target is hit, he loses 2 life points",
+    "image": ""
+  },
+  {
+    "name": "Aim",
+    "cards": [{
+      "value": "j",
+      "suit": "hearts"
+    }],
+    "type": "yellow",
+    "text": "All other players discard 1 card from their hands at the same time. If no Ace was discarded, you draw up to 2 of those cards",
+    "image": ""
+  },
+  {
+    "name": "Backfire",
+    "cards": [{
+      "value": "q",
+      "suit": "clubs"
+    }],
+    "type": "yellow",
+    "text": "Missed! The player who shot is the target of a BANG!",
+    "image": ""
+  },
+  {
+    "name": "Last Call",
+    "cards": [{
+      "value": "8",
+      "suit": "diamonds"
+    }],
+    "type": "yellow",
+    "text": "Gain 1 life point",
+    "image": ""
+  },
+  {
+    "name": "Tornado",
+    "cards": [{
+      "value": "a",
+      "suit": "clubs"
+    }],
+    "type": "yellow",
+    "text": "Each player discards a card from their hand (if possible), then draws 2 cards from the deck",
+    "image": ""
+  },
+  {
+    "name": "Tomhawk",
+    "cards": [{
+      "value": "a",
+      "suit": "diamonds"
+    }],
+    "type": "yellow",
+    "text": "BANG! at distance 2",
+    "image": ""
+  },
+  {
+    "name": "Panning",
+    "cards": [{
+      "value": "2",
+      "suit": "spades"
+    }],
+    "type": "yellow",
+    "text": "Counts as your normal one BANG! per turn. Also targets the player of your choice at distance 1 from the first target with a BANG!",
+    "image": ""
+  },
+  {
+    "name": "Schofield",
+    "cards": [{
+      "value": "j",
+      "suit": "clubs"
+    }, {
+      "value": "q",
+      "suit": "clubs"
+    }, {
+      "value": "k",
+      "suit": "spades"
+    }],
+    "type": "blue",
+    "text": "(Weapon) Range 2",
+    "image": ""
+  },
+  {
+    "name": "Volcanic",
+    "cards": [{
+      "value": "10",
+      "suit": "spades"
+    }, {
+      "value": "10",
+      "suit": "clubs"
+    }],
+    "type": "blue",
+    "text": "(Weapon) Range 1. You can play as many Bangs as you want",
+    "image": ""
+  }, 
+  {
+    "name": "Rev. Carabine",
+    "cards": [{
+      "value": "a",
+      "suit": "clubs"
+    }, {
+      "value": "5",
+      "suit": "spades"
+    }],
+    "type": "blue",
+    "text": "(Weapon) Range 4",
+    "image": ""
+  },
+  {
+    "name": "Winchester",
+    "cards": [{
+      "value": "8",
+      "suit": "spades"
+    }],
+    "type": "blue",
+    "text": "(Weapon) Range 5",
+    "image": ""
+  },
+  {
+    "name": "Remington",
+    "cards": [{
+      "value": "k",
+      "suit": "clubs"
+    }, {
+      "value": "6",
+      "suit": "diamonds"
+    }],
+    "type": "blue",
+    "text": "(Weapon) Range 3",
+    "image": ""
+  },
+  {
+    "name": "Jail",
+    "cards": [{
+      "value": "10",
+      "suit": "spades"
+    }, {
+      "value": "j",
+      "suit": "spades"
+    }, {
+      "value": "4",
+      "suit": "hearts"
+    }],
+    "type": "blue",
+    "text": "Reveal! If hearts then play, else skip the turn. Discard the jail.",
+    "image": ""
+  },
+  {
+    "name": "Barrel",
+    "cards": [{
+      "value": "q",
+      "suit": "spades"
+    }, {
+      "value": "k",
+      "suit": "spades"
+    }, {
+      "value": "a",
+      "suit": "clubs"
+    }],
+    "type": "blue",
+    "text": "Reveal! If hearts then missed.",
+    "image": ""
+  },
+  {
+    "name": "Scope",
+    "cards": [{
+      "value": "a",
+      "suit": "spades"
+    }, {
+      "value": "k",
+      "suit": "spades"
+    }],
+    "type": "blue",
+    "text": "You see others at distance -1",
+    "image": ""
+  },
+  {
+    "name": "Binocular",
+    "cards": [{
+      "value": "10",
+      "suit": "diamonds"
+    }],
+    "type": "blue",
+    "text": "You view others at distance -1",
+    "image": ""
+  },
+  {
+    "name": "Hideout",
+    "cards": [{
+      "value": "k",
+      "suit": "diamonds"
+    }],
+    "type": "blue",
+    "text": "Others see you at distance +1",
+    "image": ""
+  },
+  {
+    "name": "Mustang",
+    "cards": [{
+      "value": "8",
+      "suit": "hearts"
+    }, {
+      "value": "9",
+      "suit": "hearts"
+    }, {
+      "value": "5",
+      "suit": "hearts"
+    }],
+    "type": "blue",
+    "text": "Others see you at distance +1",
+    "image": ""
+  },
+  {
+    "name": "Dynamite",
+    "cards": [{
+      "value": "2",
+      "suit": "hearts"
+    }, {
+      "value": "10",
+      "suit": "clubs"
+    }],
+    "type": "blue",
+    "text": "Reveal! From 2 to 9 of spades lose 3 life points. Else pass on your left",
+    "image": ""
+  }, 
+  {
+    "name": "Ghost",
+    "cards": [{
+      "value": "9",
+      "suit": "spades"
+    }, {
+      "value": "10",
+      "suit": "spades"
+    }],
+    "type": "blue",
+    "text": "Play on any eliminated player. That player is back in the game, but cannot gain nor lose life points.",
+    "image": ""
+  },
+  {
+    "name": "Lemat",
+    "cards": [{
+      "value": "4",
+      "suit": "diamonds"
+    }],
+    "type": "blue",
+    "text": "(Weapon) Range 1. During your turn, you may use any card in your hand as a BANG! card.",
+    "image": ""
+  },
+  {
+    "name": "Rattkesnake",
+    "cards": [{
+      "value": "7",
+      "suit": "hearts"
+    }],
+    "type": "blue",
+    "text": "Play on any player. At the beginning of his turn, that player 'Reveals!': on Spades, he loses 1 life point.",
+    "image": ""
+  },
+  {
+    "name": "Shotgun",
+    "cards": [{
+      "value": "k",
+      "suit": "spades"
+    }],
+    "type": "blue",
+    "text": "(Weapon) Range 1. Each time you hit a player, he must discard a card of his choice from his hand.",
+    "image": ""
+  }, 
+  {
+    "name": "Bounty",
+    "cards": [{
+      "value": "9",
+      "suit": "clubs"
+    }],
+    "type": "blue",
+    "text": "Play on any player. If that player is hit by a BANG! card, the player who shot him draws a card from the deck.",
+    "image": ""
+  },
+  {
+    "name": "Bible",
+    "cards": [{
+      "value": "10",
+      "suit": "hearts"
+    }],
+    "type": "green",
+    "text": "Avoid 1 BANG! and draw 1 card",
+    "image": ""
+  },
+  {
+    "name": "Canteen",
+    "cards": [{
+      "value": "7",
+      "suit": "hearts"
+    }],
+    "type": "green",
+    "text": "You regain 1 life point",
+    "image": ""
+  },
+  {
+    "name": "Can Can",
+    "cards": [{
+      "value": "j",
+      "suit": "clubs"
+    }],
+    "type": "green",
+    "text": "Discard 1 card from a player",
+    "image": ""
+  },
+  {
+    "name": "Ten Gallon Hat",
+    "cards": [{
+      "value": "j",
+      "suit": "diamonds"
+    }],
+    "type": "green",
+    "text": "Avoid 1 BANG!",
+    "image": ""
+  },
+  {
+    "name": "Conestoga",
+    "cards": [{
+      "value": "9",
+      "suit": "diamonds"
+    }],
+    "type": "green",
+    "text": "Pick 1 card from a player",
+    "image": ""
+  },
+  {
+    "name": "Derringer",
+    "cards": [{
+      "value": "7",
+      "suit": "spades"
+    }],
+    "type": "green",
+    "text": "BANG! a player at distance 1 and draw 1 card",
+    "image": ""
+  },
+  {
+    "name": "Buffalo Rifle",
+    "cards": [{
+      "value": "q",
+      "suit": "clubs"
+    }],
+    "type": "green",
+    "text": "BANG! to another player",
+    "image": ""
+  },
+  {
+    "name": "Howitzer",
+    "cards": [{
+      "value": "9",
+      "suit": "spades"
+    }],
+    "type": "green",
+    "text": "BANG! every other player",
+    "image": ""
+  },
+  {
+    "name": "Pepperbox",
+    "cards": [{
+      "value": "a",
+      "suit": "hearts"
+    }],
+    "type": "green",
+    "text": "BANG! one player in range",
+    "image": ""
+  },
+  {
+    "name": "Iron Plate",
+    "cards": [{
+      "value": "a",
+      "suit": "diamonds"
+    }, {
+      "value": "q",
+      "suit": "spades"
+    }],
+    "type": "green",
+    "text": "Dodge 1 BANG!",
+    "image": ""
+  },
+  {
+    "name": "Pony Express",
+    "cards": [{
+      "value": "q",
+      "suit": "diamonds"
+    }],
+    "type": "green",
+    "text": "Draw 3 cards",
+    "image": ""
+  },
+  {
+    "name": "Knife",
+    "cards": [{
+      "value": "8",
+      "suit": "hearts"
+    }],
+    "type": "green",
+    "text": "BANG! one player at distance 1",
+    "image": ""
+  },
+  {
+    "name": "Sombrero",
+    "cards": [{
+      "value": "7",
+      "suit": "spades"
+    }],
+    "type": "green",
+    "text": "Dodge 1 BANG!",
+    "image": ""
+  }
+]

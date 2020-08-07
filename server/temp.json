@@ -1,0 +1,57 @@
+
+
+{
+  "name": "barrel",
+  "type": "blue",
+  "values": [
+    {"number": 4, "suit": "heart"}
+  ],
+  "effects": {
+    "incoming": {
+      "required_miss": [
+        {
+          "modifiers": {
+            "hearts": [
+              {
+                "property": "required_miss",
+                "magnitude": -1,
+                "operation": "add"
+              }
+            ]
+          },
+          "conditions": [
+            {
+              "action": "reveal",
+              "options": {
+                "amount": 1
+              },
+              "result": [
+                {
+                  "return":[
+                    {
+                      "suit": "hearts"
+                    }
+                  ],
+                  "do": ["hearts"]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "outgoing": {
+    "damage": [
+
+    ]
+  }
+}
+// object.values => array dei valore
+object.keys => array delle chiavi
+object.items => array tuple (key,value)
+// for each card
+for a in incoming:
+  if a in msg.effect:
+    if check_conditions(incoming.a):
+      apply_modifiers
